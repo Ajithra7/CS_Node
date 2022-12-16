@@ -1,7 +1,8 @@
 [
   {
     "NameofHospital":"Medical College Hospital",
-    "PatientCount":3250,"HospitalLocation":"Trivandrum"
+    "PatientCount":3250,
+    "HospitalLocation":"Trivandrum"
   },
   {
     "NameofHospital":"Medical College Hospital",
@@ -40,7 +41,8 @@
   },
   {
     "NameofHospital":"Ahmedabad Civil Hospital",
-    "PatientCount":2800,"HospitalLocation":"Ahammedabad"
+    "PatientCount":2800,
+    "HospitalLocation":"Ahammedabad"
   },
   {
     "NameofHospital":"All India Institute Of Medical Sciences",
